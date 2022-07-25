@@ -1,0 +1,20 @@
+{
+  "ownerNumber": ["6285709199707@s.whatsapp.net"],
+  "ownerName": ["Zaks'X"],
+  "botName": "Neobot",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "Zaks'X Official © 2022",
+  
+  "apikey": {
+  "XteamKey": "YOUR_APIKEY",
+  "LeysKey": "IkyOgiwara"
+  },
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
